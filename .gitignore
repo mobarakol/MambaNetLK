@@ -1,0 +1,40 @@
+# Python compiled files
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files
+*.log
+log/
+
+# PyTorch model files
+*.pth
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Experiment results
+results/ 
