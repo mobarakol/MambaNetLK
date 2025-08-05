@@ -54,7 +54,7 @@ C3VD_datasets/
 │   │   ├── 0001_depth_pcd.ply
 │   │   └── ...
 │   └── class2_scene2/
-└── visible_point_cloud_ply_depth/  # Target point clouds (MRI data)
+└── visible_point_cloud_ply_depth/  # Target point clouds (CT data)
     ├── class1_scene1/
     │   ├── points.ply
     │   └── ...
